@@ -32,11 +32,11 @@ Here are some ideas to get you started:
 ### About me:
 I'm learning web development via The Odin Project
 
-- :seedling: Exploring the Internet and its security.
+- :seedling: Exploring the Internet and its security
 
 - :thought_balloon: In my free time, I solve problems on codewars. In my free free time, I solve problems on Steam.
 
-- 👍 I like cars and personal finance
+- 👍 Besides computers, I also like cars and personal finance.
 
 - [![Linkedin Badge](https://img.shields.io/badge/-Anh-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/anh-ngo-na/)
 
