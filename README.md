@@ -38,7 +38,8 @@ I'm learning web development via The Odin Project
 
 - 👍 Besides computers, I also like cars and personal finance.
 
-- [![Linkedin Badge](https://img.shields.io/badge/-Anh-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/anh-ngo-na/)]
+- [![Linkedin Badge](https://img.shields.io/badge/-Anh-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/anh-ngo-na/)
+
 - "The process of working on a project is as important if not more so than the outcome of the project itself." ~YouTuber bigboxSWE
 
 
