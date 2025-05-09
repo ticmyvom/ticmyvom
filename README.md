@@ -12,11 +12,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-<div id="LinkedIn" align="center">
-  <a href="https://www.linkedin.com/in/anh-ngo-na/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-</div>
 <div id="views-counter" align="center">
   <img align="center" src="https://komarev.com/ghpvc/?username=ticmyvom&style=flat-square&color=blue" alt=""/>
 </div>
